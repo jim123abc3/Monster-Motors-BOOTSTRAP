@@ -1,0 +1,397 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Monster Motors: Car Repairs</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Reliable and efficient service for car repairs, car servicing, car MOT and more." />
+	<meta name="keywords" content="car, repair, MOT, garage, servicing, vehicle repair, orpington, greater london">
+    <meta name="Monster Motors Site" content="" />
+	<meta name="robots" content="index, follow" />
+	<meta name="author" content="Plimmer Productions">
+	<meta name="google-site-verification" content="" />
+	<meta name="Copyright" content="" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
+  
+</head>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage"><img src ="logo1.jpg" style="position:absolute;top:2px; left:5px; border-radius: 10px" /></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="#portfolio">PORTFOLIO</a></li>
+        <li><a href="#pricing">CERTIFICATES</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron text-center">
+  <h1>Monster-Motors</h1> 
+  <p>Fixing and working on cars for 30+ years!</p> 
+</div>
+
+<!-- Container (About Section) -->
+<div id="about" class="container-fluid">
+  <div class="row">
+    <div class="col-sm-8">
+      <h2>About Monster Motors...</h2><br>
+      <h4>Welcome to my website! My name is Tony Payne and I've been fixing cars ever since I started driving them. I operate in the outer London area including Orpington, Bromley, Westerham, Biggin Hill and many more surrounding areas! </h4><br>
+      <p>I have exactly 32 years of experience in the field, 10 of which has been specialising in Volkswagen Vehicles. I'm an extremely multi-dimensional garage as I repair all car brands such as Land Rover, Mercedes Benz, Audi, BMW, Mini-Cooper, Vauxhall, Ford, Mitsubishi, Toyota, SEAT and the list goes on! I also fix
+          classic cars as well do modifcations to them. My work doesn't just stop at fixing customer's cars, I also do a lot of outsourced work for other car garages including clutches, cambelts, suspensions and anything else you can think of. So if your a car garage or just someone who needs their car repaired contact me on my mobile or email!
+      </p>
+      <br>
+        <div class="col-sm-4">
+      <span class="glyphicon glyphicon-earphone logo-small"></span>
+      <h4>Mobile</h4>
+      <p>07771 783237</p>
+    </div>
+        <div class="col-sm-4">
+      <span class="glyphicon glyphicon-phone-alt logo-small"></span>
+      <h4>Landline</h4>
+      <p> 01959 570 983</p>
+    </div>
+        <div class="col-sm-4">
+      <span class="glyphicon glyphicon-envelope logo-small"></span>
+      <h4>Email</h4>
+      <p>monster.57@hotmail.co.uk</p>
+    </div>
+
+    <!--    <button class="btn btn-danger btn-lg">monster.57@hotmail.co.uk</button>
+       <button class="btn btn-danger btn-lg">01959 570983</button> -->
+    </div>
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-road logo"></span>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-grey">
+  <div class="row">
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-flag logo slideanim"></span>
+    </div>
+    <div class="col-sm-8">
+      <h2>Our Values</h2><br>
+      <h4><strong>MISSION:</strong>My mission is to FIX/SERVICE/MOT your car to the best possible quality. I've been doing this for a long time and I'm highly confident that you'll leave extremely satisfied with my service and experience.</h4><br>
+      <p><strong>VISION:</strong>My vision is to be the best car garage in the outer London area and I will reach that goal as long as I keep doing what I do to a high level. Help me reach my vision by recommending my garage to your friends and families. </p>
+    </div>
+  </div>
+</div>
+
+<!-- Container (Services Section) -->
+<div id="services" class="container-fluid text-center">
+  <h2>SERVICES</h2>
+  <h4>What we offer</h4>
+  <br>
+  <div class="row slideanim">
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-alert logo-small"></span>
+      <h4>M.O.T.</h4>
+      <p>I offer a fully comprehensive MOT service usually done within the day..</p>
+    </div>
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-cog logo-small"></span>
+      <h4>SERVICING</h4>
+      <p>I offer partial services as well fully comprehensive services done within the day..</p>
+    </div>
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-transfer logo-small"></span>
+      <h4>COLLECTION/DELIVERY</h4>
+      <p>No need to worry as I can collect your car before fixing it, then drop it off to you after..</p>
+    </div>
+  </div>
+  <br><br>
+  <div class="row slideanim">
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-gbp logo-small"></span>
+      <h4>COMPETITIVE</h4>
+      <p>I offer highly competitive prices with high customer satisfaction..</p>
+    </div>
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-certificate logo-small"></span>
+      <h4>CERTIFIED</h4>
+      <p>I have over 12 certificates in Motor Vehicle Repairs, so you can have full confidence in me..</p>
+    </div>
+    <div class="col-sm-4">
+      <span class="glyphicon glyphicon-wrench logo-small"></span>
+      <h4 style="color:#303030;">ANY VEHICLE</h4>
+      <p>I will repair any vehicle! Vans ,Cars, Trucks, you name it..</p>
+    </div>
+  </div>
+</div>
+
+<!-- Container (Portfolio Section) -->
+<div id="portfolio" class="container-fluid text-center bg-grey">
+  <h2>Portfolio</h2><br>
+  <h4>Examples of what I have done</h4>
+  <div class="row text-center slideanim">
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="mg.jpg" alt="MG Rover" width="400" height="300">
+        <p><strong>MG</strong></p>
+        <p>Yes, I fixed this 5.7 litre MG!</p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="audi.jpg" alt="Audi TT" width="400" height="300">
+        <p><strong>Audi</strong></p>
+        <p>One of my usual car repairs</p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="4x4.jpg" alt="Mitsubishi 4x4" width="400" height="300">
+        <p><strong>Mitsubishi 4x4</strong></p>
+        <p>One of my customer's 4x4 being done</p>
+      </div>
+    </div>
+  </div><br>
+  
+  <h2>What my customers say</h2>
+  <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <h4>"Fabulous service - I broke down whilst towing my horse and he rescued me and the broken car. 
+            He then replaced the clutch really quickly and returned the car to me. Really high quality, 
+            top notch personal service at an incredibly reasonable price!"<br><span style="font-style:normal;">Dawn Elson from the Merlin Group</span></h4>
+      </div>
+      <div class="item">
+        <h4>"I've used Monster motors many times for servicing and repairs on my Audi TT and VW Transporter van. 
+            I have always been more than happy with the quality of work and Tony's knowledge is second to none. 
+            The cost is always very reasonable and its good to have someone I trust working on my vehicles.!"<br><span style="font-style:normal;">John Edwards from MV Trucks</span></h4>
+      </div>
+      <div class="item">
+        <h4>"Always take my car here. Great service, good value for money, very accommodating, nothing is too much trouble and great piece of mind."<br><span style="font-style:normal;">Allison Baker from Xerox</span></h4>
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+<!-- Container (Pricing Section) -->
+<div id="pricing" class="container-fluid">
+  <div class="text-center">
+    <h2>My Certificates</h2>
+    <h4>3 of my 12 Certifications</h4>
+  </div>
+  <div class="row slideanim">
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h1>Electrical Auxilaries</h1>
+        </div>
+        <div class="panel-body">
+      <img src="cert1.png" alt="certificate1" class="img-responsive">
+        </div>
+       
+      </div>      
+    </div>     
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h1>Engines + Chassis Components</h1>
+        </div>
+        <div class="panel-body">
+        <img src="cert2.png" alt="certificate2" class="img-responsive">
+        </div>
+       
+      </div>      
+    </div>       
+    <div class="col-sm-4 col-xs-12">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h1>Heavy Vehicles</h1>
+        </div>
+        <div class="panel-body">
+       <img src="cert3.png" alt="certificate2" class="img-responsive">
+        </div>
+    
+      </div>      
+    </div>    
+  </div>
+</div>
+
+<!-- Container (Contact Section) -->
+
+    <script type="text/javascript">
+        function hgsubmit() {
+            if (/\S+/.test(document.hgmailer.name.value) == false) alert("Please provide your name.");
+            else if (/\S+/.test(document.hgmailer.number.value) == false) alert("Please provide your number.");
+            else if (/^\S+@[a-z0-9_.-]+\.[a-z]{2,6}$/i.test(document.hgmailer.email.value) == false) alert("A valid email address is required.");
+            else if (/\S+/.test(document.hgmailer.comment.value) == false) alert("Your email content is needed.");
+            else {
+                document.hgmailer.submit();
+                alert('Thank you!\nYour email is sent.');
+            }
+        }
+</script> 
+
+
+
+<form action="http://www.monster-motors.com/cgi-sys/formmail.pl" method="post" name="hgmailer"> 
+<input type="hidden" name="recipient" value="info@monster-motors.com"> 
+<input type="hidden" name="subject" value="Customer E-Mail"> 
+<div id="contact" class="container-fluid bg-grey">
+  <h2 class="text-center">CONTACT</h2>
+  <div class="row">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you straight away!</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> 71 Jail Lane, Biggin Hill, Westerham, TN16 3SE</p>
+      <p><span class="glyphicon glyphicon-phone"></span> 07771 783237</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> monster.57@hotmail.co.uk</p>	   
+    </div>
+    <div class="col-sm-7 slideanim">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" size="30" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="number" name="number" size="30" placeholder="Number" type="number" required>
+        </div>
+          <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" size="30" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comment" name="comment" placeholder="What can I do for your car..." rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" value="SEND" onclick="hgsubmit();" type="submit">Send</button>
+            <input type="hidden" name="redirect" value="http://www.monster-motors.com/"> 
+        </div>
+      </div>	
+    </div>
+  </div>
+</div>
+</form> 
+
+<div id="googleMap" style="height:400px;width:100%;"></div>
+
+<!-- Add Google Maps -->
+<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script>
+    var myCenter = new google.maps.LatLng(51.316868, 0.038703);
+
+    function initialize() {
+        var mapProp = {
+            center: myCenter,
+            zoom: 12,
+            scrollwheel: false,
+            draggable: false,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+        var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+        var marker = new google.maps.Marker({
+            position: myCenter,
+        });
+
+        marker.setMap(map);
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+<footer class="container-fluid text-center">
+  <a href="#myPage" title="To Top">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a>
+  <p>Monster Motors ©</p>		
+</footer>
+
+<script>
+    $(document).ready(function () {
+        // Add smooth scrolling to all links in navbar + footer link
+        $(".navbar a, footer a[href='#myPage']").on('click', function (event) {
+
+            // Prevent default anchor click behavior
+            event.preventDefault();
+
+            // Store hash
+            var hash = this.hash;
+
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+            }, 900, function () {
+
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+            });
+        });
+
+        $(window).scroll(function () {
+            $(".slideanim").each(function () {
+                var pos = $(this).offset().top;
+
+                var winTop = $(window).scrollTop();
+                if (pos < winTop + 600) {
+                    $(this).addClass("slide");
+                }
+            });
+        });
+    })
+</script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='assets/js/libs/jquery-1.11.0.min.js'>\x3C/script>")</script>
+
+  <script>
+      (function (i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+              (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+      ga('create', 'UA-72323756-1', 'auto');
+      ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
